@@ -1,0 +1,8 @@
+*.tif
+*.TIF
+/38-cloud
+*.tflite
+/saved_model
+/__pycache__
+*.h5
+*:Zone.Identifier
